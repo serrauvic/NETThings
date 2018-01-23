@@ -1,4 +1,4 @@
 # NETThings
 Net utils.
 
-Backlog of things useful for me.
+Backlog of my NET things.
